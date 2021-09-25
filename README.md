@@ -1,6 +1,6 @@
 # Electron Fiddle + p5js + WebSerialAPI + micro:bit
 
-Electron Fiddleをつかって、シリアル通信アプリケーション（試作）をつくりました。Electron v15で動作確認しています。シリアル通信には、WebSerialAPIをつかっていて、micro:bitのusbVendorIdとusbProductIdをフィルタして接続します。
+Electron Fiddleをつかって、シリアル通信アプリケーション（試作）をつくりました。Electron v15で動作確認しています。シリアル通信には、WebSerialAPIをつかっていて、micro:bitのusbVendorIdとusbProductIdをフィルタして、micro:bitにのみ接続するようにしています。
 
 <img src = "./screenshot.png"></img>
 
