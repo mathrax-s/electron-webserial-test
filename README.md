@@ -15,13 +15,13 @@ https://makecode.microbit.org/_Uf3KRD5mUTxc
 
 ## 参考
 
-- WebSerialAPIについて
+- WebSerialAPIについて参考にさせていただきました
 
   https://codelabs.developers.google.com/codelabs/web-serial#2
 
 
 
-- ElectronとWebSerialAPIについて
+- ElectronとWebSerialAPIについて参考にさせていただきました
 
   https://gist.github.com/jkleinsc/284893c7f01d3cb4559508ca06919481#file-main-js-L21
 
