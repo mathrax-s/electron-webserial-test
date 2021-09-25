@@ -20,9 +20,11 @@ WebSerialAPIについて
 https://codelabs.developers.google.com/codelabs/web-serial#2
 
 
+
 ElectronとWebSerialAPIについて
 
 https://gist.github.com/jkleinsc/284893c7f01d3cb4559508ca06919481#file-main-js-L21
+
 
 
 WebSerialAPIとp5js
