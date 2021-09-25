@@ -17,16 +17,16 @@ https://makecode.microbit.org/_Uf3KRD5mUTxc
 
 - WebSerialAPIについて
 
-https://codelabs.developers.google.com/codelabs/web-serial#2
+  https://codelabs.developers.google.com/codelabs/web-serial#2
 
 
 
 - ElectronとWebSerialAPIについて
 
-https://gist.github.com/jkleinsc/284893c7f01d3cb4559508ca06919481#file-main-js-L21
+  https://gist.github.com/jkleinsc/284893c7f01d3cb4559508ca06919481#file-main-js-L21
 
 
 
 - WebSerialAPIとp5js
 
-https://editor.p5js.org/kuzeshozo/sketches/ahXeFwTB3
+  https://editor.p5js.org/kuzeshozo/sketches/ahXeFwTB3
